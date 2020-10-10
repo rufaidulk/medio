@@ -1,0 +1,27 @@
+{
+  "name": "medio",
+  "version": "1.0.0",
+  "description": "Medium like publishing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufaidulk/medio.git"
+  },
+  "keywords": [
+    "blogging",
+    "publishing",
+    "medium"
+  ],
+  "author": "rufaidulk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rufaidulk/medio/issues"
+  },
+  "homepage": "https://github.com/rufaidulk/medio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
